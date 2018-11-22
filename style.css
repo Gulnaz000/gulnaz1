@@ -1,0 +1,15 @@
+﻿div{border: green 5px solid;margin:2px;
+
+}
+#b2{background-color:yellow;}
+#b3{background-color:grey;
+width:15%;float:left;
+}
+#b4{background-color:pink;
+width:45%;
+float:left;}
+#b5{background-color:grey;
+width:35%;
+float:left;}
+#b6{background-color:yellow;
+clear:both;}
