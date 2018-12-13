@@ -1,11 +1,11 @@
 ﻿//alert('Ehhhf!');
 function f()
 {
-alert(document.getElementById('b2').borderColor);
-document.getElementById("b2").borderColor="blue";
+alert(document.getElementById('b2').style.borderColor);
+document.getElementById("b2").style.borderColor="blue";
 }
 function g()
 {
-alert(document.getElementById("b2").borderColor);
-document.getElementById("b2").borderColor="yellow";
+alert(document.getElementById("b2").style.borderColor);
+document.getElementById("b2").style.borderColor="yellow";
 }
